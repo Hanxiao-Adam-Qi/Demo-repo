@@ -3,5 +3,3 @@
 Some description!
 
 ## Subheader
-
-some text.
